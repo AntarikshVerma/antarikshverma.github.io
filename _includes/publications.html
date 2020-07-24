@@ -10,23 +10,33 @@
     {{ publications.title }}
   </h2>
 
-  {% if publications.intro %}
+  
   <div class="intro">
-    {{ publications.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
+    
+ <ul>
+  <li>A technical professional with 7.3 years of relevant experience in developing enterprises applications and Project Execution.</li>
+  <li>Having experience as Software Developer in software design, analysis, development, testing and implementation of web and client server applications using Microsoft Technologies.</li>
+  <li>Expertise on in application development using with C#,  ASP.NET MVC. </li>
+   <li>Hands on experience on LINQ as the Database data consumer.</li>
+   <li>Hands on experience on ADO.NET to access data and data services from the database.</li>
+   <li>Extensive experience in design and development of applications using ASP.NET MVC  and Web technologies like HTML, JQuery , CSS, Ajax, JavaScript and in reference architecture.</li>
+   <li>Very Good Analytical and Observing skills.</li>
+   <li>	Good Knowledge on third party controls Telerik Controls.									</li>
+  <li>	Extensive experience in MVC 3, MVC 4 with EDM (Entity Data Model).                          </li>
+<li>	Hands on experience to handle JSON objects using JQuery on front end.                       </li>
+<li>	Expertise in Team foundation server (TFS) as a source control tool.                         </li>
+<li>	Experience in writing Stored Procedures using MS SQL Server 2008/2012.                      </li>
+<li>	Experience in Web Services and WCF and web API (REST services).                             </li>
+<li>	Experience in configuring IIS and code setup with IIS.                                      </li>
+<li>	Experience with various integration with application like LinkedIn, Yammer, PayPal.         </li>
+<li>	Ability to learn & develop using new technologies quickly.                                  </li>
+<li>	Excellent communication and interpersonal skills.                                           </li>
+</ul>
+    
 
-  {% for publication in publications.papers %}
-  <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
-    {% else %}
-      <li>{{ publication.title }}</li>
-    {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
+
+
+  </div>
 
 </section><!--//section-->
 {% endif %}
