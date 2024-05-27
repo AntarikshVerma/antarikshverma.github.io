@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Antariksh
-    tagline: Technical Lead | Full Stack Developer
+    tagline: Solution Architect | Technical Lead | Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,12 +48,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I possess more than a decade of experience as a Technical Lead, making me a well-rounded and accomplished technical professional, Full Stack Developer, and Microsoft Technology Practitioner. My professional journey has included working with renowned IT firms such as Infosys, TATA Consultancy Services, and Sopra Steria.
+      My expertise encompasses Full Stack Development, Microsoft Technologies, and Cloud Technologies. I am proficient in Angular, .NET Core & MVC, C#, Microservices, Cloud (AWS & Azure), LINQ, Entity Framework, WCF, SQL Server, Visual Studio, CSS, HTML, jQuery, Team Foundation Server, VSTS, and GIT.
+      I have a broad range of experience in the software development lifecycle, including serving as a system architect and developer, and handling complex applications and resolving operational issues.Additionally, One of my key strengths lies in my ability to effectively communicate and collaborate with clients. By closely engaging with them, I ensure a thorough understanding of their project requirements, allowing my team to deliver tailored and impactful solutions. My commitment to delivering high-quality results, combined with my passion for innovation in technology, has been instrumental in driving successful outcomes for both my team and our clients.
+      Skills sets : C#, .NET Core, Micro services, Angular, GEN AI, Python, Open AI, Azure Open AI, Cloud (AWS &Azure), React, ASP .NET, .NET MVC, Entity Framework, ADO .NET, Ajax, LINQ, MS Sql Server, jQuery, CSS, Html, JavaScript, WCF, Web Services, Web API and DockerI possess more than a deca.
 education:
     - degree: B.Tech in Computer Science & Engineering (Honors)
       university: UPTU
